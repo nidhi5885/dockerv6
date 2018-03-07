@@ -34,10 +34,6 @@ spec:
       - name: demoapp
 
         image: testacreg.azurecr.io/dockerv6:latest
-        
-        imagePullSecrets:
-     
-        - name: secretname
 
         imagePullPolicy: Always
 
@@ -55,6 +51,9 @@ spec:
 
             cpu: 500m
             
+      imagePullSecrets:
+     
+      - name: secretname      
       
 
 ---
