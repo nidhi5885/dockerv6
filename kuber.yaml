@@ -18,7 +18,6 @@ spec:
 
       maxUnavailable: 1
 
-  minReadySeconds: 5 
 
   template:
 
