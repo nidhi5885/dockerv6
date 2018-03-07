@@ -32,7 +32,7 @@ spec:
 
       containers:
 
-      - name: mhc-front
+      - name: demoapp
 
         image: testacreg.azurecr.io/dockerv6:latest
 
