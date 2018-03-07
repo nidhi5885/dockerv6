@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  dockerv6:
+    image: dockerv6
+    build:
+      context: ./DockerV6
+      dockerfile: Dockerfile

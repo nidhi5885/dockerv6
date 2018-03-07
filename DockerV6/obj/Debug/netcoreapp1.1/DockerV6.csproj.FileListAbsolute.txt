@@ -1,0 +1,10 @@
+C:\Users\svohra\source\repos\DockerV6\DockerV6\bin\Debug\netcoreapp1.1\DockerV6.deps.json
+C:\Users\svohra\source\repos\DockerV6\DockerV6\bin\Debug\netcoreapp1.1\DockerV6.runtimeconfig.json
+C:\Users\svohra\source\repos\DockerV6\DockerV6\bin\Debug\netcoreapp1.1\DockerV6.runtimeconfig.dev.json
+C:\Users\svohra\source\repos\DockerV6\DockerV6\bin\Debug\netcoreapp1.1\DockerV6.dll
+C:\Users\svohra\source\repos\DockerV6\DockerV6\bin\Debug\netcoreapp1.1\DockerV6.pdb
+C:\Users\svohra\source\repos\DockerV6\DockerV6\obj\Debug\netcoreapp1.1\DockerV6.csprojResolveAssemblyReference.cache
+C:\Users\svohra\source\repos\DockerV6\DockerV6\obj\Debug\netcoreapp1.1\DockerV6.csproj.CoreCompileInputs.cache
+C:\Users\svohra\source\repos\DockerV6\DockerV6\obj\Debug\netcoreapp1.1\DockerV6.AssemblyInfo.cs
+C:\Users\svohra\source\repos\DockerV6\DockerV6\obj\Debug\netcoreapp1.1\DockerV6.dll
+C:\Users\svohra\source\repos\DockerV6\DockerV6\obj\Debug\netcoreapp1.1\DockerV6.pdb
