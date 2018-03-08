@@ -53,7 +53,7 @@ spec:
             
       imagePullSecrets:
      
-      - name: secretname      
+      - name: mysecret      
       
 
 ---
