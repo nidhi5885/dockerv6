@@ -33,7 +33,7 @@ spec:
 
       - name: demoapp
 
-        image: testacreg.azurecr.io/dockerv6:latest
+        image: testacreg.azurecr.io/dockerv6
 
         imagePullPolicy: Always
 
